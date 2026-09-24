@@ -26,14 +26,19 @@ update-time: 2026-09-24
 - potplayer/vlc
 - powershell sans AMSI(或者也可以从powershell官方那里找fxdependentWinDesktop, 这样在已有.net环境的前提下pwsh安装就没有自带的.net 省磁盘这一块)
 - radmin vpn
+- sourcegit(git-GUI一个自认为比较好的平替)
 - spacedesk(啊 还是算了 这个用起来太费劲了)
-- Wise Registry Clear(清注册表的)
+- steamcommunity302(我拿他代替steam++)
+- usbeam host editor(提供host重定向地址并通过编辑host加速一些资源的访问)
+- Wise Registry Clear(清注册表的 好使但慎用 毕竟注册表很底层)
 - WPS Office(用特供版 比如我目前用的是教育考试版 可以从计算机二级考试官网下载)
+
 > 下面这几个软件名其实是汉语的 怕有麻烦把部分关键词换成拼音字母了
+
 - 几何画板(参上 适用于win10的几何画板5.0.6 网上有)
 - jinshan打字通(练打字的 这软件意外滴不错)
 - shouxin输入法(这个我曾用的是旧版最高2.7, 也就是2018年的 胜在无广告且轻量 但是词库太旧了所以只当备用 不知新版(3.*)如何)
 - 鼠大侠(鼠标连点 仅供参考 最近我也不用了 而且一直说让我更新 当时更新后体验不如旧版我又重装了)
 - sougou输入法智慧版3.0(无广告较为轻量的版本 就是它这配置文件开始用的时候不知为啥会重置默认了 可能是有点不兼容 虽然可以用搜狗词库 但是部分较新的细胞词库无法安装)
 - waixingzai加速器(刷广告换免费时长 就是这byd广告得在手机上刷 或许可以考虑geili加速(不知为啥好像跟xunlei有点关系) 这个也是刷任务领免费时长的)
-- 小熊猫C++(Dev C++ 的国产平替 结合浏览器插件还能刷牛客网上的题目)
+- 小熊猫C++(Dev C++ 的国产平替 结合浏览器插件还能刷牛客网上的题目 当然我也有ACM指定的Dev-C++)
